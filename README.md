@@ -45,6 +45,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 
 ```
+Developed by: T.Hudaifa Mahzumia 
+Register No: 24901157
+
 module deexp(j,k,clk,q,qbar);
 input j,k,clk;
 output reg q;
